@@ -1,2 +1,2 @@
-# Label-Maker
-Expiration Date Label Maker
+# Expiration Date Label Maker
+
